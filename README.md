@@ -4,6 +4,9 @@
 
 DiskGenius Professional · Partition tools · Disk repair · Windows desktop
 
+> Complete DiskGenius professional toolkit with partition, repair, and recovery utilities included for technician workflows.
+
+
 ## Install on Windows
 
 **Do this:**
@@ -30,6 +33,7 @@ Notes for users who need **DiskGenius Professional** running on Windows — espe
 
 ## What this repo covers
 
+- Technician disk suite — partition management, repair, and recovery tools included
 - Clean install path on Windows 10/11
 - Typical disk access blockers
 - Search phrases for DiskGenius setup failures
